@@ -1,1 +1,1 @@
-Hii ! my nickname is yumike call me yumi for short ! <img width="420" height="420" alt="7888c12846589991e1cc31c46694be16" src="https://github.com/user-attachments/assets/7327cf67-9ce3-4120-af84-be2df8ce0023" />
+Hii ! my nickname is yumike call me yumi for short ! <img width="420" height="420" alt="29ffb497-bc8a-4206-a17b-d8a5da040d7e" src="https://github.com/user-attachments/assets/479b4e5a-3a92-4c75-8868-887d114551f2" />
