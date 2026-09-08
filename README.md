@@ -9,6 +9,7 @@ MULTIFANDOM
 
 DNI - Homophobic, racist, transphobic, and making fun of ppl, darkshipper and proshipper .
 
+INT plslspssls
 
 Mostly at pony town , can be offtab or online
 
