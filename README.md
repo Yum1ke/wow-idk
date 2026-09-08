@@ -13,3 +13,16 @@ INT plslspssls
 
 Mostly at pony town , can be offtab or online
 
+/* At the top of your style.css file */
+@font-face {
+  font-family: 'MyCustomFont';
+  src: url('../assets/fonts/my-font.woff2') format('woff2'),
+       url('../assets/fonts/my-font.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Apply the font to your elements */
+body {
+  font-family: 'MyCustomFont', sans-serif;
+}
