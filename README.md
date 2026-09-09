@@ -12,3 +12,8 @@ DNI - Homophobic, racist, transphobic, and making fun of ppl, darkshipper and pr
 INT plslspssls !! . //
 
 Mostly at pony town , can be offtab or online ! .. /
+c*h freely !
+
+<img width="420" height="420" alt="2a64d88d-e556-4a68-934e-2ea7a2c82f3d" src="https://github.com/user-attachments/assets/733e744c-d7f9-4a45-98b1-854d1e7f0f1a" />
+
+// . art by : PURECA ❕ on pinterest
