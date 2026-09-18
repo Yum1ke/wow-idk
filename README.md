@@ -35,11 +35,8 @@
 
    // ABUSE
 
-   <details>
-  <summary>text</summary>
+   // $$\mathcal{End \space of \space line \space text}$$
 
-  $$\mathcal{This \space is \space cursive \space text}$$
-</details>
   <blockquote>
 </details> 
 
