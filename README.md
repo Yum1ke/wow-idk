@@ -2,14 +2,18 @@
 
 This is a sentence where you click the 
 <details style="display:inline;">
-  <summary style="display:inline; cursor:pointer; color:blue; text-decoration:underline;">word</summary>
-  <blockquote>✨ Hi nicknames yumike
+  <summary style="display:inline; cursor:pointer; color:blue; text-decoration:underline;">︵︵ABOUT ME</summary>
+  <blockquote> Hi nicknames yumike
     
     ︵︵ / i LOVE cats !!
     
     ︵︵ /so i might be wearing a fishcat skin on pony town !
     
     ︵︵ / or others.
+
+    ︵︵ .. / I might have adhd (i cant sleep but may sleep after some time)
+
+    ︵︵ .. / SO yea ! , thats all to tell you :p
 </blockquote>
 </details>
 
