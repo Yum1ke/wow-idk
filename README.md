@@ -3,5 +3,7 @@
 This is a sentence where you click the 
 <details style="display:inline;">
   <summary style="display:inline; cursor:pointer; color:blue; text-decoration:underline;">word</summary>
-  <blockquote> hi </blockquote>.</blockquote>
+  <blockquote>✨ Tada! You clicked the word and revealed this text.</blockquote>
 </details> 
+to see what is hidden.
+
