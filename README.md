@@ -3,6 +3,8 @@
 This is a sentence where you click the 
 <details style="display:inline;">
   <summary style="display:inline; cursor:pointer; color:blue; text-decoration:underline;">word</summary>
-  <blockquote>✨ Hi nicknames yumike , i LOVE cats so i might be wearing a fishcat skin on pony town ! , more otheres. But </blockquote>
+  <blockquote>✨ Hi nicknames yumike
+    , i LOVE cats so i might be wearing a fishcat skin on pony town !
+    , more others. </blockquote>
 </details>
 
