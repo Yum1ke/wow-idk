@@ -35,7 +35,7 @@
 
    // ABUSE
 
-   // $$\mathcal{End \space of \space line \space text}$$
+   // $$\mathcal{End \space of \space line }$$
 
   <blockquote>
 </details> 
