@@ -1,1 +1,7 @@
 <img width="211" height="211" alt="5abc5597bf5fa15352a7a81b1336e8d8" src="https://github.com/user-attachments/assets/e4cdbb7d-1cca-4236-b41b-83bc69e7cae9" /> .. ︵︵ art by : Chupapi mynanyo/noli ✨🎴 on pinter
+
+This is a sentence where you click the 
+<details style="display:inline;">
+  <summary style="display:inline; cursor:pointer; color:blue; text-decoration:underline;">word</summary>
+  <blockquote> hi </blockquote>.</blockquote>
+</details> 
