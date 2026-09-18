@@ -20,6 +20,26 @@
 <details style="display:inline;">
   <summary style="display:inline; cursor:pointer; color:blue; text-decoration:underline;">DNI</summary>
   <blockquote> !! .. DNI IF YOUR..
-   // HOMOPHOBIC
+   
+   // HOMOPHOBIC .
+
+   // BULLYING .
+
+   // SEXIST
+
+   // DRAMAS
+
+   // 18 +
+
+   // WEIRD JOKES/R@PE JOKE (Even if is a joke, is not funny.)
+
+   // ABUSE
+
+   <details>
+  <summary>text</summary>
+
+  $$\mathcal{This \space is \space cursive \space text}$$
+</details>
+  <blockquote>
 </details> 
 
