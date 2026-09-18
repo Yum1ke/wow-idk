@@ -5,8 +5,11 @@ This is a sentence where you click the
   <summary style="display:inline; cursor:pointer; color:blue; text-decoration:underline;">word</summary>
   <blockquote>✨ Hi nicknames yumike
     
-    , i LOVE cats so i might be wearing a fishcat skin on pony town !
+    , i LOVE cats ,
     
-    , or others. </blockquote>
+    so i might be wearing a fishcat skin on pony town !
+    
+    , or others.
+</blockquote>
 </details>
 
