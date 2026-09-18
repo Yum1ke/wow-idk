@@ -17,3 +17,9 @@
 </blockquote>
 </details>
 
+<details style="display:inline;">
+  <summary style="display:inline; cursor:pointer; color:blue; text-decoration:underline;">DNI</summary>
+  <blockquote> !! .. DNI IF YOUR..
+   // HOMOPHOBIC
+</details> 
+
