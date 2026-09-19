@@ -8,7 +8,7 @@
 
 <div align="center">
   <details>
-    <summary><img src=" hi " />
+    <summary></summary>src=" hi " />
 " alt="Click to expand"></summary>
     
     Your hidden content here.
