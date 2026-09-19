@@ -43,7 +43,7 @@
 <div align="center">
   <a href="https://github.com">
     <img src="https://githubusercontent.com" 
-         alt="Clickable Interface" 
+alt="Clickable Interface" 
          width="350" 
          style="border: 3px solid #39FF14; border-radius: 8px; box-shadow: 0px 0px 15px #39FF14;" />
   </a>
