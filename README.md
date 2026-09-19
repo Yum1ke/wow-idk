@@ -41,21 +41,26 @@
 </details> 
 
 <details>
-  <summary>✨ Click to view [ <code>📌 OPEN_OVERLAY_BOARD</code> ]</summary>
+  <summary>✨ Click to view [ <code>🖼️ VIEW_SLIME_ARCHIVE</code> ]</summary>
   
   <br />
-  
   <div align="center">
-    <blockquote style="background-color: #1a1a1a; padding: 15px; border-left: 5px solid #39FF14; border-radius: 6px;">
-      <p align="left">
-        <font color="#39FF14"><b>📋 SYSTEM DOSSIER // OVERLAY ACTIVE</b></font>
-        <br />
-        <br />
-        🗺️ <b>The Crossroads Board:</b> You've unlocked the hidden sector index.<br />
-        🧬 <i>Avery's slime archives are initializing directly below...</i>
+    <!-- Colored border container using blockquote formatting -->
+    <blockquote style="border-left: 5px solid #39FF14; background-color: #0d1117; padding: 15px; border-radius: 8px;">
+      
+      <!-- Interactive Link wrapping the visual asset -->
+      <a href="https://github.com">
+        <img src="https://unsplash.com" width="400" alt="Avery Style Graphic" style="border-radius: 6px;" />
+      </a>
+      
+      <br /><br />
+      <p align="center">
+        <font color="#39FF14"><b>🧬 CLASSIFIED SECTOR IMAGE LOADED</b></font><br />
+        <sub><i>Click the image itself to navigate deeper into the project workspace.</i></sub>
       </p>
     </blockquote>
   </div>
 </details>
+
 
 still an wip as this is an rmk .
