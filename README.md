@@ -29,14 +29,7 @@
 
 <div align="center">
   <details>
-    <summary>︵︵ . 𝓟𝓸𝓷𝔂 𝓽𝓸𝔀𝓷.</summary>
-jfkqweal
-
-<br>
-<br>
-
-
-
+  
 
 <br>
 <br>
