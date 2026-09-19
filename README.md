@@ -8,9 +8,21 @@
 
 <div align="center">
   <details>
-    <summary>Click here to expand</summary>
+    <summary>︵︵ 𝓓𝓷𝓲 𝓲𝓯 𝔂𝓸𝓾𝓻 ..</summary>
     
-    This text is now centered and hidden until you click the line above.
+    ︵︵ / 𝓗𝓞𝓜𝓞𝓟𝓗𝓞𝓑𝓘𝓒
+
+    ︵︵ / 𝓓𝓡𝓐𝓜𝓣𝓘𝓒
+
+    ︵︵ / 𝓐𝓑𝓤𝓢𝓔
+
+    ︵︵ / 𝓦𝓔𝓘𝓡𝓓 / 𝓤𝓝𝓒𝓞𝓜𝓕𝓞𝓡𝓣𝓐𝓑𝓛𝓔 𝓙𝓞𝓚𝓔𝓢
+
+    ︵︵ / 18+
+
+    ︵︵ / 𝓜.𝓐.𝓟 (𝓜𝓲𝓷𝓸𝓻-𝓐𝓽𝓽𝓻𝓪𝓬𝓽𝓲𝓿𝓮-𝓟𝓮𝓻𝓼𝓸𝓷)
+
+    
     
   </details>
 </div>
