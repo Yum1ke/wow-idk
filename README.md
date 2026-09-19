@@ -60,4 +60,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9D%93%9D%F0%9D%93%AE%F0%9D%93%BF%F0%9D%93%AE%F0%9D%93%BB+%F0%9D%93%BD%F0%9D%93%BB%F0%9D%93%BE%F0%9D%93%BC%F0%9D%93%BD+%F0%9D%93%BD%F0%9D%93%B1%F0%9D%93%AE+%F0%9D%93%B4%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%B0+%2C%2C;%F0%9D%94%82%F0%9D%93%B8%F0%9D%93%BE'%F0%9D%93%B5%F0%9D%93%B5+%F0%9D%93%AB%F0%9D%93%AE+%F0%9D%93%BD%F0%9D%93%B1%F0%9D%93%AE+%F0%9D%93%B7%F0%9D%93%AE%F0%9D%94%81%F0%9D%93%BD+%F0%9D%93%BF%F0%9D%93%B2%F0%9D%93%AC%F0%9D%93%BD%F0%9D%93%B2%F0%9D%93%B6.)](https://git.io/typing-svg)
 
 
-<a href="PASTE_YOUR_LINK_HERE" style="color: white; text-decoration: none;">Your Text Here</a>
+<a href="https://yumikept3.straw.page/" style="color: white; text-decoration: none;">︵︵𝓢𝓽𝓻𝓪𝔀𝓹𝓪𝓰𝓮 !</a>
