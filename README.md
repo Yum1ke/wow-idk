@@ -40,7 +40,22 @@
   <blockquote>
 </details> 
 
-Access granted. You must click the [ `☣️ SYSTEM_ACCESS_OVERRIDE` ](https://github.com) node to load the sector files.
-
+<details>
+  <summary>✨ Click to view [ <code>📌 OPEN_OVERLAY_BOARD</code> ]</summary>
+  
+  <br />
+  
+  <div align="center">
+    <blockquote style="background-color: #1a1a1a; padding: 15px; border-left: 5px solid #39FF14; border-radius: 6px;">
+      <p align="left">
+        <font color="#39FF14"><b>📋 SYSTEM DOSSIER // OVERLAY ACTIVE</b></font>
+        <br />
+        <br />
+        🗺️ <b>The Crossroads Board:</b> You've unlocked the hidden sector index.<br />
+        🧬 <i>Avery's slime archives are initializing directly below...</i>
+      </p>
+    </blockquote>
+  </div>
+</details>
 
 still an wip as this is an rmk .
