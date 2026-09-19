@@ -8,10 +8,9 @@
 
 <div align="center">
   <details>
-    <summary></summary>src=" hi " />
-" alt="Click to expand"></summary>
+    <summary>Click here to expand</summary>
     
-    Your hidden content here.
+    This text is now centered and hidden until you click the line above.
     
   </details>
 </div>
