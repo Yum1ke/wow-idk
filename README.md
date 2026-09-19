@@ -40,7 +40,7 @@
   <blockquote>
 </details> 
 
-To enter the system, you must first click on the [ `🟢 INITIALIZE DATA PATHWAY` ](https://github.com) node.
+Access granted. You must click the [ `☣️ SYSTEM_ACCESS_OVERRIDE` ](https://github.com) node to load the sector files.
 
 
 still an wip as this is an rmk .
