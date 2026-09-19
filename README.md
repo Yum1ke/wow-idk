@@ -2,17 +2,18 @@
 
 𝓓𝓸 𝔂𝓸𝓾 𝓽𝓻𝓾𝓼𝓽 𝓽𝓱𝓮 𝓴𝓲𝓷𝓰 ?
 
-
-<!-- Add as many <br> tags as you need to push it down -->
 <br>
 <br>
 <br>
 
 <div align="center">
-  <details>
-    <summary>Click here to expand</summary>
-    
-         This text is now pushed down and centered!
-    
-  </details>
+<table border="0"><tr><td>
+
+<details>
+  <summary>Click here to expand</summary>
+  
+  Your content goes here.
+</details>
+
+</td></tr></table>
 </div>
