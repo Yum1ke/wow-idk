@@ -61,3 +61,5 @@
 
 
 <a href="https://yumikept3.straw.page/" style="color: white; text-decoration: none;">︵︵𝓢𝓽𝓻𝓪𝔀𝓹𝓪𝓰𝓮 !</a>
+
+<a href="https://yumikept3.straw.page" style="color: white; text-decoration: none;">︵︵𝓢𝓽𝓻𝓪𝔀𝓹𝓪𝓰𝓮 !</a>
