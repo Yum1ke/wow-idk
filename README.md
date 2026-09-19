@@ -12,7 +12,7 @@
   <details>
     <summary>Click here to expand</summary>
     
-    This text is now pushed down and centered!
+         This text is now pushed down and centered!
     
   </details>
 </div>
