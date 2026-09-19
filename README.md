@@ -37,4 +37,15 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9D%93%90%F0%9D%93%BF%F0%9D%93%AE%F0%9D%93%BB%F0%9D%94%82.;%F0%9D%93%A6%F0%9D%93%B1%F0%9D%93%AA%F0%9D%93%BD%F0%9D%93%AE%F0%9D%93%BF%F0%9D%93%AE%F0%9D%93%BB+%F0%9D%94%82%F0%9D%93%B8%F0%9D%93%BE+%F0%9D%93%AD%F0%9D%93%B8+%F0%9D%93%AA%F0%9D%93%BD+%F0%9D%93%BD%F0%9D%93%B1%F0%9D%93%AE+%F0%9D%93%AC%F0%9D%93%BB%F0%9D%93%B8%F0%9D%93%BC%F0%9D%93%BC%F0%9D%93%BB%F0%9D%93%B8%F0%9D%93%AA%F0%9D%93%AD%2C;%F0%9D%93%93%F0%9D%93%B8%F0%9D%93%B7%F0%9D%93%BD+%F0%9D%93%BD%F0%9D%93%BE%F0%9D%93%BB%F0%9D%93%B7+%F0%9D%93%B5%F0%9D%93%AE%F0%9D%93%AF%F0%9D%93%BD" alt="Typing SVG" /></a>
 
+<div align="center">
+  <details>
+    <summary>︵︵ 𝓕𝓪𝓿𝓸𝓻𝓲𝓽𝓮 𝓽𝓱𝓲𝓷𝓰𝓼 .</summary>
+
+    𝓒𝓪𝓽𝓼
+
+    𝓐𝓻𝓽 / 𝓭𝓻𝓪𝔀𝓲𝓷𝓰
+
+    𝓪𝓿𝓮𝓻𝔂 (𝓝𝓞𝓣 𝓑𝓔𝓘𝓝𝓖 𝓞𝓑𝓢𝓢𝓔𝓢𝓔𝓓)
+
+    𝓢𝓵𝓲𝓶𝓮𝓴𝓷𝓲𝓰𝓱𝓽 (𝓪𝓷𝓭 𝓶𝓸𝓻𝓮)
 
