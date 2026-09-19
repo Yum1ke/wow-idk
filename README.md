@@ -2,4 +2,9 @@
 
 𝓓𝓸 𝔂𝓸𝓾 𝓽𝓻𝓾𝓼𝓽 𝓽𝓱𝓮 𝓴𝓲𝓷𝓰 ?
 
-still an wip as this is an rmk .
+                      <details>
+  <summary>Click here to expand</summary>
+
+  This text is hidden until you click the line above. You can also include **Markdown styling** or code blocks here.
+
+</details>
