@@ -62,4 +62,6 @@
 
 <a href="https://yumikept3.straw.page/" style="color: white; text-decoration: none;">︵︵𝓢𝓽𝓻𝓪𝔀𝓹𝓪𝓰𝓮 !</a>
 
-<a href="https://yumikept3.straw.page" style="color: white; text-decoration: none;">︵︵𝓢𝓽𝓻𝓪𝔀𝓹𝓪𝓰𝓮 !</a>
+︵︵𝐸𝓃𝒹 𝑜𝒻 𝓁𝒾𝓃𝑒 . . . .
+
+Still an wip . .
