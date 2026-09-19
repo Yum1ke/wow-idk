@@ -51,3 +51,9 @@
 
    </details>
 </div>
+
+<bir>
+
+<img width="444" height="433" alt="a1fcc4f0-9bf5-4598-b850-808ea305624c" src="https://github.com/user-attachments/assets/22db50d6-9944-436d-94e5-9fda2d6d6b3d" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9D%93%9D%F0%9D%93%AE%F0%9D%93%BF%F0%9D%93%AE%F0%9D%93%BB+%F0%9D%93%BD%F0%9D%93%BB%F0%9D%93%BE%F0%9D%93%BC%F0%9D%93%BD+%F0%9D%93%BD%F0%9D%93%B1%F0%9D%93%AE+%F0%9D%93%B4%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%B0+%2C%2C;%F0%9D%94%82%F0%9D%93%B8%F0%9D%93%BE'%F0%9D%93%B5%F0%9D%93%B5+%F0%9D%93%AB%F0%9D%93%AE+%F0%9D%93%BD%F0%9D%93%B1%F0%9D%93%AE+%F0%9D%93%B7%F0%9D%93%AE%F0%9D%94%81%F0%9D%93%BD+%F0%9D%93%BF%F0%9D%93%B2%F0%9D%93%AC%F0%9D%93%BD%F0%9D%93%B2%F0%9D%93%B6.)](https://git.io/typing-svg)
