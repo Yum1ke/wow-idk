@@ -40,27 +40,16 @@
   <blockquote>
 </details> 
 
-<details>
-  <summary>✨ Click to view [ <code>🖼️ VIEW_SLIME_ARCHIVE</code> ]</summary>
-  
+   <div align="center">
+  <a href="https://github.com">
+    <img src="https://githubusercontent.com" 
+         alt="Clickable Interface" 
+         width="350" 
+         style="border: 3px solid #39FF14; border-radius: 8px; box-shadow: 0px 0px 15px #39FF14;" />
+  </a>
   <br />
-  <div align="center">
-    <!-- Colored border container using blockquote formatting -->
-    <blockquote style="border-left: 5px solid #39FF14; background-color: #0d1117; padding: 15px; border-radius: 8px;">
-      
-      <!-- Interactive Link wrapping the visual asset -->
-      <a href="https://github.com">
-        <img src="https://unsplash.com" width="400" alt="Avery Style Graphic" style="border-radius: 6px;" />
-      </a>
-      
-      <br /><br />
-      <p align="center">
-        <font color="#39FF14"><b>🧬 CLASSIFIED SECTOR IMAGE LOADED</b></font><br />
-        <sub><i>Click the image itself to navigate deeper into the project workspace.</i></sub>
-      </p>
-    </blockquote>
-  </div>
-</details>
+  <sub>👆 <b>CLICK THE IMAGE ABOVE TO LAUNCH SYSTEM</b> 👆</sub>
+</div>
 
 
 still an wip as this is an rmk .
