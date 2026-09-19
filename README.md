@@ -7,11 +7,9 @@
 <div align="center">
   <details>
     <summary>︵︵ 𝓓𝓷𝓲 𝓲𝓯 𝔂𝓸𝓾𝓻 ..</summary>
-<br>
-<br>
-<br>
+     
   𝓗𝓞𝓜𝓞𝓟𝓗𝓞𝓑𝓘𝓒
-<br>
+  
   𝓓𝓡𝓐𝓜𝓣𝓘𝓒
 
   𝓐𝓑𝓤𝓢𝓔
