@@ -40,4 +40,53 @@
   <blockquote>
 </details> 
 
+<!-- HEADER BANNER: Typing text styling with Avery's custom theme -->
+<div align="center">
+  <img src="https://demolab.com⚡+WELCOME+TO+THE+CROSSROADS+⚡;👾+Avery-Style+Workspace+👾;⚠️+DON'T+TURN+LEFT...;>_+Initializing+Dev+Interface..." alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+### 🟢 CURRENT DEPLOYMENTS
+- [x] 🟩 **Constructing the core engine**
+- [x] 🗺️ **Exploring alternative logic pathways**
+- [ ] ⚠️ **Securing database boundaries**
+
+<br />
+
+<!-- INTERACTIVE COLLAPSIBLE ACCORDION FOR DATA STACKS -->
+<details>
+  <summary><b>🧪 [EXPAND SYSTEM SPECIFICATIONS] 🧬</b></summary>
+  <br />
+  
+  ### 🛠️ Core Toolkit
+  
+  <p align="left">
+    <a href="https://github.com"><img src="https://shields.io" /></a>
+    <a href="https://github.com"><img src="https://shields.io" /></a>
+    <a href="https://github.com"><img src="https://shields.io" /></a>
+    <a href="https://github.com"><img src="https://shields.io" /></a>
+  </p>
+
+</details>
+
+<br />
+
+<!-- DYNAMIC GITHUB STATS PINNED IN MATRIX GREEN -->
+### 📊 TRANSMISSION METRICS
+<p align="center">
+  <img src="https://vercel.app" alt="Slime Stats" />
+</p>
+
+---
+
+<div align="center">
+  <sub>Generated within the void. Do not turn back. 🧭</sub>
+</div>
+
 still an wip as this is an rmk .
