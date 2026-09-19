@@ -3,13 +3,16 @@
 𝓓𝓸 𝔂𝓸𝓾 𝓽𝓻𝓾𝓼𝓽 𝓽𝓱𝓮 𝓴𝓲𝓷𝓰 ?
 
 
-
+<!-- Add as many <br> tags as you need to push it down -->
+<br>
+<br>
+<br>
 
 <div align="center">
   <details>
-    <summary>︵︵ 𝓓𝓷𝓲 𝓲𝓯 𝔂𝓸𝓾𝓻 . . .</summary>
+    <summary>Click here to expand</summary>
     
-    This text is now centered and hidden until you click the line above.
+    This text is now pushed down and centered!
     
   </details>
 </div>
