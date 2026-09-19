@@ -32,5 +32,5 @@
 
   <img width="444" height="433" alt="4fcab4f1-bbaf-42b3-915c-5094fe2f172c" src="https://github.com/user-attachments/assets/1b501b45-5f0d-4519-89f9-eb6711755824" />
 
-[![Typing SVG](https://demolab.com.)]
+<img src="https://demolab.com" alt="Typing Animation" />
 
