@@ -7,14 +7,11 @@
 <br>
 
 <div align="center">
-<table border="0"><tr><td>
-
-<details>
-  <summary>Click here to expand</summary>
-
-  
-  Your content goes here.
-</details>
-
-</td></tr></table>
+  <details>
+    <summary><img src="68997894db6b404c6ac6dc8d73b31bb1" alt="Click to expand"></summary>
+    
+    Your hidden content here.
+    
+  </details>
 </div>
+
