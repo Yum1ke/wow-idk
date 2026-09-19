@@ -3,8 +3,6 @@
    𝓓𝓸 𝔂𝓸𝓾 𝓽𝓻𝓾𝓼𝓽 𝓽𝓱𝓮 𝓴𝓲𝓷𝓰 ?
 
 <br>
-<br>
-<br>
 
 <div align="center">
   <details>
