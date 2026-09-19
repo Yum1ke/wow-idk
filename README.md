@@ -39,8 +39,8 @@
 
   <blockquote>
 </details> 
-
-   <div align="center">
+   
+<div align="center">
   <a href="https://github.com">
     <img src="https://githubusercontent.com" 
          alt="Clickable Interface" 
