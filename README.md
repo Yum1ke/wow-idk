@@ -67,7 +67,9 @@
 <div align="center">
   <details>
     <summary><b>︵︵ . 𝓕𝓪𝓷𝓭𝓸𝓶𝓼 𝓲𝓶 𝓲𝓷 ,,</b></summary>
-    <p>meow!</p>
+    <p>𝓓𝓦</p>
+
+   𝓐𝓗𝓐 
   </details>
 </div>
 
