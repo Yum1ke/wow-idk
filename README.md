@@ -106,12 +106,15 @@
   <details>
     <summary>︵︵ 𝓒𝓸𝓸𝓵 𝓪𝓾 𝓲 𝓶𝓪𝓭𝓮 𝓲𝓰 ,, </summary>
   <p>𝓢𝓸 𝓲 𝓶𝓪𝓭𝓮 𝓪 𝓶𝓾𝓵𝓽𝓲𝓯𝓪𝓷𝓭𝓸𝓶 𝓲𝓷𝓯 𝓪𝓾 , 𝓬𝓪𝓵𝓵𝓮𝓭 𝓽𝓱𝓮 𝓣𝓻𝓾𝓮 𝓻𝓸𝓼𝓮 𝓲𝓷𝓯 𝓸𝓻 𝓣𝓻𝓾𝓮 𝓻𝓸𝓼𝓮 𝓯𝓸𝓻 𝓼𝓱𝓸𝓻𝓽, 𝓲 𝓶𝓪𝓭𝓮 𝓼𝓸𝓶𝓮 𝓬𝓱𝓪𝓷𝓰𝓮𝓼 𝓲𝓷𝓽𝓸 𝓲𝓽 ! .
+
+  </details>
+  </div>
  
 <br>
 
 <div align="center">
   <details>
-    <summary>︵︵ 𝓣𝓱𝓲𝓷𝓰𝓼 𝓲 𝓰𝓮𝓽 𝓭𝓲𝓼𝓬𝓸𝓶𝓯𝓸𝓻𝓽 ,, </summary>
+   <summary>︵︵ 𝓣𝓱𝓲𝓷𝓰𝓼 𝓲 𝓰𝓮𝓽 𝓭𝓲𝓼𝓬𝓸𝓶𝓯𝓸𝓻𝓽 ,, </summary>
      <p>
   </details>
   </div>
