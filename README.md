@@ -2,7 +2,8 @@
 
    𝓓𝓸 𝔂𝓸𝓾 𝓽𝓻𝓾𝓼𝓽 𝓽𝓱𝓮 𝓴𝓲𝓷𝓰 ?
 
-   <div class="tenor-gif-embed" data-postid="10288060875768408460" data-share-met
+   <img width="333" height="333" alt="plants" src="https://github.com/user-attachments/assets/2907269f-03ff-4b5a-a002-c518069ea793" />
+
    
 <br>
 <br>
