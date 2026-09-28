@@ -2,6 +2,9 @@
 
    𝓓𝓸 𝔂𝓸𝓾 𝓽𝓻𝓾𝓼𝓽 𝓽𝓱𝓮 𝓴𝓲𝓷𝓰 ?
 
+   <div class="tenor-gif-embed" data-postid="10288060875768408460" data-share-met
+   
+<br>
 <br>
 
 <div align="center">
