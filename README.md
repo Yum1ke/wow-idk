@@ -146,7 +146,8 @@
   </details>
   </div>
 
-   <img width="83" height="18" alt="tumblr_cbfa24731099fd04148fa9d0326d2ab6_2c711cab_100" src="https://github.com/user-attachments/assets/7e18745b-a048-4ef6-805b-b9fe03482374" />
+   <img src="https://github.com/user-attachments/assets/7e18745b-a048-4ef6-805b-b9fe03482374" alt="tumblr-gif" />
+
 
   
 ︵︵𝐸𝓃𝒹 𝑜𝒻 𝓁𝒾𝓃𝑒 . . . .
