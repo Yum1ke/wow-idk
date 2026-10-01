@@ -146,7 +146,7 @@
   </details>
   </div>
 
-   <img width="71" height="18" alt="Hello-IMG1721006629166" src="https://github.com/user-attachments/assets/3a222ea0-bc57-4e25-92b7-e730ffaf22f1" />
+   <img width="83" height="18" alt="tumblr_cbfa24731099fd04148fa9d0326d2ab6_2c711cab_100" src="https://github.com/user-attachments/assets/7e18745b-a048-4ef6-805b-b9fe03482374" />
 
   
 ︵︵𝐸𝓃𝒹 𝑜𝒻 𝓁𝒾𝓃𝑒 . . . .
