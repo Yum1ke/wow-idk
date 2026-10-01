@@ -1,4 +1,4 @@
-<img width="450" height="60" alt="rVawPrX" src="https://github.com/user-attachments/assets/4f0b24ca-afe9-480c-8bcf-b42a70c8b215" />
+<img width="150" height="20" alt="rVawPrX" src="https://github.com/user-attachments/assets/4f0b24ca-afe9-480c-8bcf-b42a70c8b215" />
 
 
 <br>
