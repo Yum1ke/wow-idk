@@ -145,10 +145,6 @@
 
   </details>
   </div>
-
-   <img src="https://github.com/user-attachments/assets/7e18745b-a048-4ef6-805b-b9fe03482374" alt="tumblr-gif" />
-
-
   
 ︵︵𝐸𝓃𝒹 𝑜𝒻 𝓁𝒾𝓃𝑒 . . . .
 
