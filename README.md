@@ -149,7 +149,7 @@
 ︵︵𝐸𝓃𝒹 𝑜𝒻 𝓁𝒾𝓃𝑒 . . . .
 
 
-Still an wip . .
+, 彡 Still an wip . .
 
-ALL OF THIS ART ARE BY - Snapple
+,, 彡 ALL OF THIS ART ARE BY - Snapple
 ON PINTEREST
