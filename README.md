@@ -1,3 +1,4 @@
+<img width="1280" height="393" alt="tumblr-3977894e80ba4ddcf55b7190fc226839-e0ded9f5-2048" src="https://github.com/user-attachments/assets/b5a90c49-c2a2-44b0-950b-bc5be100bc58" />
 <img width="20" height="20" alt="zy015w" src="https://github.com/user-attachments/assets/65918f18-fe7d-4b90-a77f-74046b8e3553" />
 <img width="20" height="20" alt="zy015w" src="https://github.com/user-attachments/assets/a7cad7f6-f172-4ab2-9aac-4793aab260f9" />
 
@@ -17,6 +18,10 @@
 $\color{#E6E6FA}\text{,, 彡 ᴅɴɪ ɪꜰ ʏᴏᴜʀ , ʜᴏᴍᴏᴘʜᴏʙɪᴄ, ᴅɪꜱɢᴜꜱᴛɪɴɢ, ᴛʀᴀɴꜱɢᴇɴᴅᴇʀ, ᴍ.ᴀ.ᴘ, ꜱᴇxɪꜱᴛ, ᴅʀᴀᴍᴀᴛɪᴄ, ᴀɴᴅ ᴍᴏʀᴇ .}$
 
 <br>
+<br>
+
+<img width="640" height="360" alt="644aed31392a25c93cd8eb0dd8ca8ba7" src="https://github.com/user-attachments/assets/6e04681f-2996-4102-b42a-a6167d6e0e82" />
+
 , 彡 Still an wip . .
 
 
