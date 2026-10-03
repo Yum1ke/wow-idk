@@ -10,5 +10,4 @@
 
 , 彡 Still an wip . .
 
-,, 彡 ALL OF THIS ART ARE BY - Snapple
-ON PINTEREST
+
