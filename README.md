@@ -3,7 +3,8 @@
 
 <br>
 <br>
-  <img width="540" height="66" alt="3bo1jv" src="https://github.com/user-attachments/assets/86f3d33c-0ca1-4525-92c9-5ad77d379cef" />
+ <img width="627" height="468" alt="07b6139e-ce16-4879-875d-162a6d24853c" src="https://github.com/user-attachments/assets/570f717d-4255-4d97-8bfc-323a8a0edda5" />
+
 
 ︵︵𝐸𝓃𝒹 𝑜𝒻 𝓁𝒾𝓃𝑒 . . . .
 
