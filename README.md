@@ -5,7 +5,9 @@
 <br>
 <br>
 <img width="229" height="19" alt="su3evy" src="https://github.com/user-attachments/assets/ff8f89be-8d4d-4fb7-820c-6b3274168bf1" /><img width="229" height="19" alt="su3evy" src="https://github.com/user-attachments/assets/ff8f89be-8d4d-4fb7-820c-6b3274168bf1" /><img width="229" height="19" alt="su3evy" src="https://github.com/user-attachments/assets/ff8f89be-8d4d-4fb7-820c-6b3274168bf1" />
+<br>
 
+$\color{#E6E6FA}\text{ᴅᴏ ʏᴏᴜ ʙᴇɪʟᴇᴠᴇ ɪɴ ꜰᴀᴛᴇ ? .}$
 
 ︵︵𝐸𝓃𝒹 𝑜𝒻 𝓁𝒾𝓃𝑒 . . . .
 
