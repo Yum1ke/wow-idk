@@ -17,6 +17,12 @@ $\color{#E6E6FA}\text{,, 彡 ᴅɴɪ ɪꜰ ʏᴏᴜʀ , ʜᴏᴍᴏᴘʜᴏʙɪ�
 
 <img width="640" height="360" alt="644aed31392a25c93cd8eb0dd8ca8ba7" src="https://github.com/user-attachments/assets/6e04681f-2996-4102-b42a-a6167d6e0e82" />
 
-, 彡 Still an wip . .
+<br>
+
+$\color{#E6E6FA}\text{ᴄᴏᴍꜰᴏʀᴛ ᴄʜᴀʀꜱ ,, }$
+
+<br>
+
+$\color{#E6E6FA}\text{ꜰʀᴏɢɢʏᴅᴜᴅᴇ, ɢʀᴏx, ᴛʜᴀᴛᴍᴏʙ, ᴛᴡɪxxᴇʟ, ɢʀᴇᴇɴ ..}$
 
 
