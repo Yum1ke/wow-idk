@@ -1,7 +1,9 @@
 
 <img width="540" height="304" alt="bfa8102ed8a0a9c0753ad1cec1be1378" src="https://github.com/user-attachments/assets/ce276c9a-79d2-4d0d-bc13-a971464b3dc4" />
 
-<br>
+<br><img width="540" height="304" alt="8194fd72cb71a965245c382d7af55f20" src="https://github.com/user-attachments/assets/a66acc1a-276f-4889-a1e4-1881ae858d36" />
+<img width="640" height="548" alt="11582c446e5109df09b528938f865b3c (1)" src="https://github.com/user-attachments/assets/1bdfc572-c75e-4df0-9394-bcdfc597a4c1" />
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E6E6FA&width=435&lines=%2C%2C+%E5%BD%A1+%E1%B4%85%E1%B4%8F+%CA%8F%E1%B4%8F%E1%B4%9C+%CA%99%E1%B4%87%C9%AA%CA%9F%E1%B4%87%E1%B4%A0%E1%B4%87+%C9%AA%C9%B4+%EA%9C%B0%E1%B4%80%E1%B4%9B%E1%B4%87+%3F+.;%2C%2C+%E5%BD%A1+%E1%B4%A1%E1%B4%87'%CA%9F%CA%9F+%C9%B4%E1%B4%87%E1%B4%A0%E1%B4%87%CA%80+%E1%B4%8B%C9%B4%E1%B4%8F%E1%B4%A1+%E1%B4%9B%CA%9C%E1%B4%87%C9%B4+." alt="Typing SVG" /></a>
 
@@ -38,3 +40,4 @@ $\color{#E6E6FA}\text{ʏᴏᴜ'ʟʟ ᴍᴏꜱᴛʟʏ ꜱᴇᴇ ᴍᴇ ᴀᴛ ʙ�
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=E6E6FA&width=435&lines=%2C%2C+%E5%BD%A1+%C9%AA%EA%9C%B0+%E1%B4%A1%E1%B4%87+%E1%B4%A1%E1%B4%80%C9%B4%E1%B4%9B+%E1%B4%9B%E1%B4%8F+%CA%9F%C9%AA%E1%B4%A0%E1%B4%87+%EA%9C%B0%E1%B4%8F%CA%80%E1%B4%87%E1%B4%A0%E1%B4%87%CA%80+.;%2C%2C+%E5%BD%A1+%E1%B4%A1%E1%B4%87'%CA%9F%CA%9F+%C9%B4%E1%B4%87%E1%B4%87%E1%B4%85+%E1%B4%9B%E1%B4%8F+%EA%9C%B0%C9%AA%C9%A2%E1%B4%9C%CA%80%E1%B4%87+%C9%AA%E1%B4%9B+%E1%B4%8F%E1%B4%9C%E1%B4%9B+." alt="Typing SVG" /></a>
 
 $\color{#E6E6FA}\text{ʏᴏᴜ ᴀʟʀᴇᴀᴅʏ ᴋɴᴏᴡ ᴍʏ ꜰᴀᴠ ᴄᴏʟᴏʀ ɪꜱ ᴘᴜʀᴘʟᴇ !!}$
+
