@@ -32,3 +32,7 @@ $\color{#E6E6FA}\text{,, 彡 ᴘᴏɴʏ ᴛᴏᴡɴ}$
 <br>
 
 $\color{#E6E6FA}\text{ʏᴏᴜ'ʟʟ ᴍᴏꜱᴛʟʏ ꜱᴇᴇ ᴍᴇ ᴀᴛ ʙᴀᴋᴇʀʏ ᴏʀ ꜱᴏᴍᴇᴛɪᴍᴇꜱ ᴡ/ ᴍʏ ꜰʀɪᴇɴᴅꜱ , ᴀɴᴅ ᴄ/ʜ ɪꜱ ꜰʀᴇᴇʟʏ, ᴀʟꜱᴏ ɪɴᴛ ᴡ/ ᴍᴇ ᴘʟꜱꜱꜱ , ᴀʟꜱᴏ ɪ ᴍɪɢʜᴛ ʙᴇ ᴀꜰᴋ - ᴅᴏɪɴɢ ꜱᴍᴛʜ ᴏʀ ʙᴜꜱʏ .}$
+
+<br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=E6E6FA&width=435&lines=%2C%2C+%E5%BD%A1+%C9%AA%EA%9C%B0+%E1%B4%A1%E1%B4%87+%E1%B4%A1%E1%B4%80%C9%B4%E1%B4%9B+%E1%B4%9B%E1%B4%8F+%CA%9F%C9%AA%E1%B4%A0%E1%B4%87+%EA%9C%B0%E1%B4%8F%CA%80%E1%B4%87%E1%B4%A0%E1%B4%87%CA%80+.;%2C%2C+%E5%BD%A1+%E1%B4%A1%E1%B4%87'%CA%9F%CA%9F+%C9%B4%E1%B4%87%E1%B4%87%E1%B4%85+%E1%B4%9B%E1%B4%8F+%EA%9C%B0%C9%AA%C9%A2%E1%B4%9C%CA%80%E1%B4%87+%C9%AA%E1%B4%9B+%E1%B4%8F%E1%B4%9C%E1%B4%9B+." alt="Typing SVG" /></a>
