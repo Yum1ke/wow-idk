@@ -5,7 +5,8 @@
 
 <br>
 
-$\color{#E6E6FA}\text{[,, 彡 ᴅᴏ ʏᴏᴜ ʙᴇɪʟᴇᴠᴇ ɪɴ ꜰᴀᴛᴇ ? .](https://readme-typing-svg.demolab.com/demo/?color=FFFFFF&lines=%2C%2C+%E5%BD%A1+%E1%B4%85%E1%B4%8F+%CA%8F%E1%B4%8F%E1%B4%9C+%CA%99%E1%B4%87%C9%AA%CA%9F%E1%B4%87%E1%B4%A0%E1%B4%87+%C9%AA%C9%B4+%EA%9C%B0%E1%B4%80%E1%B4%9B%E1%B4%87+%3F+.;%2C%2C+%E5%BD%A1+%E1%B4%A1%E1%B4%87'%CA%9F%CA%9F+%C9%B4%E1%B4%87%E1%B4%A0%E1%B4%87%CA%80+%E1%B4%8B%C9%B4%E1%B4%8F%E1%B4%A1+%E1%B4%9B%CA%9C%E1%B4%87%C9%B4+.)}$
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E6E6FA&width=435&lines=%2C%2C+%E5%BD%A1+%E1%B4%85%E1%B4%8F+%CA%8F%E1%B4%8F%E1%B4%9C+%CA%99%E1%B4%87%C9%AA%CA%9F%E1%B4%87%E1%B4%A0%E1%B4%87+%C9%AA%C9%B4+%EA%9C%B0%E1%B4%80%E1%B4%9B%E1%B4%87+%3F+.;%2C%2C+%E5%BD%A1+%E1%B4%A1%E1%B4%87'%CA%9F%CA%9F+%C9%B4%E1%B4%87%E1%B4%A0%E1%B4%87%CA%80+%E1%B4%8B%C9%B4%E1%B4%8F%E1%B4%A1+%E1%B4%9B%CA%9C%E1%B4%87%C9%B4+." alt="Typing SVG" /></a>.
+
 
 <br>
 
