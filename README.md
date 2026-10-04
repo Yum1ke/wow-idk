@@ -1,4 +1,4 @@
-<img width="99" height="56" alt="a8683cd7" src="https://github.com/user-attachments/assets/236578ae-d384-4020-9be6-bbb80ebd9784" />
+
 
 <img width="540" height="304" alt="bfa8102ed8a0a9c0753ad1cec1be1378" src="https://github.com/user-attachments/assets/ce276c9a-79d2-4d0d-bc13-a971464b3dc4" />
 
@@ -53,3 +53,8 @@ $\color{#B373BD}\text{ʏᴏᴜ ᴀʟʀᴇᴀᴅʏ ᴋɴᴏᴡ ᴍʏ ꜰᴀᴠ �
     $\color{#B373BD}{\text{wip ,,}}$
   </details>
 </div>
+
+<br>
+
+<img width="99" height="56" alt="a8683cd7" src="https://github.com/user-attachments/assets/236578ae-d384-4020-9be6-bbb80ebd9784" /><img width="101" height="57" alt="557941e7" src="https://github.com/user-attachments/assets/c32d49c9-e6c3-400a-88f2-34755ab2cc34" /><img width="99" height="56" alt="709a13e1" src="https://github.com/user-attachments/assets/9eb17425-25d9-4e6c-9623-3894daad20fe" />
+
