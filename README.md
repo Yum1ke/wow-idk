@@ -77,6 +77,8 @@ $\color{#B373BD}\text{ʏᴏᴜ ᴀʟʀᴇᴀᴅʏ ᴋɴᴏᴡ ᴍʏ ꜰᴀᴠ �
 
 <img width="442" height="442" alt="33ae5525-2714-4e62-9ca9-e990d05babff" src="https://github.com/user-attachments/assets/35788119-cd9c-40d7-b821-8d34c7f13197" />
 
+<BR>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=B373BD&width=435&lines=.+%EA%9C%B0%E1%B4%80%E1%B4%A0%E1%B4%8F%CA%80%C9%AA%E1%B4%9B%E1%B4%87+%EA%9C%B1%CA%9C%C9%AA%E1%B4%98%EA%9C%B1+%2C%2C;.+%C9%A2%CA%80%E1%B4%87%E1%B4%87%C9%B4+x+%E1%B4%A1%CA%9C%C9%AA%E1%B4%9B%E1%B4%87;.+%CA%99%CA%9F%E1%B4%9C%E1%B4%87+x+%E1%B4%8F%CA%80%E1%B4%80%C9%B4%C9%A2%E1%B4%87;.+%E1%B4%98%E1%B4%9C%CA%80%E1%B4%98%CA%9F%E1%B4%87+x+%CA%80%E1%B4%87%E1%B4%85;.+%CA%9C%E1%B4%9C%E1%B4%8D%EA%9C%B0%C9%AA%E1%B4%87%EA%9C%B1;.+%E1%B4%80%C9%B4%E1%B4%85+%E1%B4%8D%E1%B4%8F%CA%80%E1%B4%87)](https://git.io/typing-svg)
 
 
