@@ -42,3 +42,13 @@ $\color{#B373BD}\text{ʏᴏᴜ ᴀʟʀᴇᴀᴅʏ ᴋɴᴏᴡ ᴍʏ ꜰᴀᴠ �
 <br>
 
 <br><img width="540" height="304" alt="8194fd72cb71a965245c382d7af55f20" src="https://github.com/user-attachments/assets/a66acc1a-276f-4889-a1e4-1881ae858d36" />
+
+<br>
+
+<div align="center">
+  <details>
+    <summary><b>$\color{#B373BD}{\text{ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ /\ /\}}$</b></summary>
+    <br>
+    $\color{#B373BD}{\text{This hidden text is now a vibrant purple!}}$
+  </details>
+</div>
