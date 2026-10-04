@@ -47,8 +47,8 @@ $\color{#B373BD}\text{ʏᴏᴜ ᴀʟʀᴇᴀᴅʏ ᴋɴᴏᴡ ᴍʏ ꜰᴀᴠ �
 
 <div align="center">
   <details>
-    <summary><b>ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ /\ /\}}$</b></summary>
+    <summary><b>ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ /\ /\}</b></summary>
     <br>
-    $\color{#B373BD}{\text{This hidden text is now a vibrant purple!}}$
+    $\color{#B373BD}{\text{wip ,,}}$
   </details>
 </div>
