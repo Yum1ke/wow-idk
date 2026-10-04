@@ -88,4 +88,4 @@ $\color{#B373BD}\text{ʏᴏᴜ ᴀʟʀᴇᴀᴅʏ ᴋɴᴏᴡ ᴍʏ ꜰᴀᴠ �
 <br>
 
 SAY HI TO CUPCAKE
-<img width="736" height="920" alt="38786a91823e3490ed51d4abac89f8cc" src="https://github.com/user-attachments/assets/3f4ff25e-04f4-4c9f-9624-4dcf2d26d01e" />
+<img width="210" height="210" alt="38786a91823e3490ed51d4abac89f8cc" src="https://github.com/user-attachments/assets/3f4ff25e-04f4-4c9f-9624-4dcf2d26d01e" />
