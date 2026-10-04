@@ -63,7 +63,9 @@ $\color{#B373BD}\text{ʏᴏᴜ ᴀʟʀᴇᴀᴅʏ ᴋɴᴏᴡ ᴍʏ ꜰᴀᴠ �
 <img width="100" height="56" alt="tumblr_5369c00ab13d8066618e82ff020e4e31_54330961_100" src="https://github.com/user-attachments/assets/65bfca21-4ddb-44d4-8526-91b92a7c0517" /><img width="99" height="55" alt="tumblr_fbed2865cda7b5e4243f27e7c4569c37_0892a814_100" src="https://github.com/user-attachments/assets/3bdc3eaf-9bd2-428c-bb9c-1a98f4b7edb0" />
 <img width="99" height="56" alt="tumblr_1f8265b221a13daaa8822d6ac503631c_7fbb7253_100" src="https://github.com/user-attachments/assets/49989528-1e67-4616-af2b-7fa2a5891f6f" />
 
+<br>
 
+[View the code on GitHub](https://github.com)
 
 
 
