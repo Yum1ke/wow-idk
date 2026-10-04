@@ -65,8 +65,7 @@ $\color{#B373BD}\text{ʏᴏᴜ ᴀʟʀᴇᴀᴅʏ ᴋɴᴏᴡ ᴍʏ ꜰᴀᴠ �
 
 <br>
 
-[ᴀᴛᴀʙᴏᴏᴋ ! ,,]([https://github.com](https://yumikemeow.atabook.org/))
-<p align="center">
+[ᴀᴛᴀʙᴏᴏᴋ ! ,,]([https://github.com](https://yumikemeow.atabook.org/)) <p align="center">
   <a href="https://yumikept4.straw.page/">ꜱᴛʀᴀᴡᴘᴀɢᴇ ! ,,</a>
 </p>
 
