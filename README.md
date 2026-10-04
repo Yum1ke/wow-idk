@@ -75,6 +75,7 @@ $\color{#B373BD}\text{ʏᴏᴜ ᴀʟʀᴇᴀᴅʏ ᴋɴᴏᴡ ᴍʏ ꜰᴀᴠ �
   <a href="https://yumikemeow.atabook.org/">ᴀᴛᴀʙᴏᴏᴋ ! ,,</a>
 </p>
 
+<img width="442" height="442" alt="33ae5525-2714-4e62-9ca9-e990d05babff" src="https://github.com/user-attachments/assets/35788119-cd9c-40d7-b821-8d34c7f13197" />
 
 
 
